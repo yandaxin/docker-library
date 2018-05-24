@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kubedns-amd64:1.9
+FROM gcr.io/google-containers/kube-addon-manager-amd64:v2
 MAINTAINER mritd <mritd@mritd.me>
